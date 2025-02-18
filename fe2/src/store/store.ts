@@ -12,6 +12,7 @@ import TicketReducer from "./apps/tickets/TicketSlice";
 import ContactsReducer from "./apps/contacts/ContactSlice";
 import UserProfileReducer from "./apps/userProfile/UserProfileSlice";
 import BlogReducer from "./apps/blog/BlogSlice";
+import AccountReducer from "./apps/accounts/AccountSlice";
 
 const persistConfig = {
   key: "root",
@@ -28,6 +29,7 @@ export const store = configureStore({
     notesReducer: NotesReducer,
     contactsReducer: ContactsReducer,
     ticketReducer: TicketReducer,
+    accountReducer: AccountReducer,
     userpostsReducer: UserProfileReducer,
     blogReducer: BlogReducer,
   },
@@ -45,6 +47,7 @@ const rootReducer = combineReducers({
   notesReducer: NotesReducer,
   contactsReducer: ContactsReducer,
   ticketReducer: TicketReducer,
+  accountReducer: AccountReducer,
   userpostsReducer: UserProfileReducer,
   blogReducer: BlogReducer,
 });

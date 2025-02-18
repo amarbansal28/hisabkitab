@@ -103,6 +103,12 @@ const appsLink: appsLinkType[] = [
     avatar: "/images/svgs/icon-dd-lifebuoy.svg",
   },
   {
+    href: "/apps/accounts",
+    title: "Accounts App",
+    subtext: "",
+    avatar: "/images/svgs/icon-dd-lifebuoy.svg",
+  },
+  {
     href: "/apps/email",
     title: "Email App",
     subtext: "Get new emails",

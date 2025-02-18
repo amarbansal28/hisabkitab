@@ -57,6 +57,12 @@ const Menuitems = [
       },
       {
         id: uniqueId(),
+        title: "Accounts",
+        icon: IconPoint,
+        href: "/apps/accounts",
+      },
+      {
+        id: uniqueId(),
         title: "Tickets",
         icon: IconPoint,
         href: "/apps/tickets",
