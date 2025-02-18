@@ -1,5 +1,3 @@
-const { GrowthBook } = require("@growthbook/growthbook");
-
 const express = require("express");
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
@@ -18,34 +16,6 @@ const logger = require("./src/utils/logger");
 const app = express();
 const PORT = 3001;
 const cors = require("cors");
-const Flagsmith = require("flagsmith-nodejs");
-
-flagsmith.init({
-  environmentID: "<Flagsmith Environment API Key>",
-  cache: {
-    has: (key) =>
-      new Promise((resolve, reject) => {
-        redisClient.exists(key, (err, reply) => {
-          console.log("check " + key + " from cache", err, reply);
-          resolve(reply === 1);
-        });
-      }),
-    get: (key) =>
-      new Promise((resolve) => {
-        redisClient.get(key, (err, cacheValue) => {
-          console.log("get " + key + " from cache");
-          resolve(cacheValue && JSON.parse(cacheValue));
-        });
-      }),
-    set: (key, value) =>
-      new Promise((resolve) => {
-        redisClient.set(key, JSON.stringify(value), "EX", 60, (err, reply) => {
-          console.log("set " + key + " to cache", err);
-          resolve();
-        });
-      }),
-  },
-});
 
 const corsOptions = {
   origin: "http://localhost:3000",

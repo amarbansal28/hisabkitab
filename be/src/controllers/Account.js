@@ -26,13 +26,8 @@ exports.createAccount = async (req, res) => {
 
 exports.getAllAccounts = async (req, res) => {
   try {
-    const gb = req.growthbook;
-    if (gb.isOn("account-table")) {
-      const accounts = await Account.find();
-      res.json(accounts);
-    } else {
-      res.json([]);
-    }
+    const accounts = await Account.find();
+    res.json(accounts);
   } catch ([error]) {
     logger.error(`Error retrieving accounts: ${error}`);
     res.status(500).json({ error: "Internal Server Error" });
