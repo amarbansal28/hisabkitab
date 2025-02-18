@@ -98,9 +98,7 @@ const Customizer: FC = () => {
 
   return (
     <div>
-      {/* --Floating Button to open customizer ------ */}
-
-      <Tooltip title="Settings">
+      {/* <Tooltip title="Settings">
         <Fab
           color="primary"
           aria-label="settings"
@@ -108,7 +106,7 @@ const Customizer: FC = () => {
           onClick={() => setShowDrawer(true)}>
           <IconSettings stroke={1.5} />
         </Fab>
-      </Tooltip>
+      </Tooltip> */}
       <Drawer
         anchor="right"
         open={showDrawer}
