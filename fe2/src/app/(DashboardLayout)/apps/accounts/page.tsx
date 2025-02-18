@@ -18,8 +18,8 @@ const BCrumb = [
 
 const TicketList = () => {
   return (
-    <PageContainer title="Account App" description="this is Account App">
-      <Breadcrumb title="Accounts app" items={BCrumb} />
+    <PageContainer title="Accounts">
+      <Breadcrumb title="Accounts" items={BCrumb} />
       <ChildCard>
         {/* <AccounttFilter /> */}
         <AccountListing />

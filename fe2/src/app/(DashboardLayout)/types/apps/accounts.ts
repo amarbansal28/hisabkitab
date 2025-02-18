@@ -1,11 +1,6 @@
 export interface AccountType {
-  Id: number;
-  accountTitle: string;
-  accountDescription: string;
-  Status: string;
-  Label: string;
-  thumb: string;
-  AgentName: string;
-  Date: Date;
-  deleted: boolean;
+  _id: string;
+  name: string;
+  mobile: string;
+  OTP: string;
 }
