@@ -1,0 +1,7012 @@
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /customers
+info: POST /customers
+info: GET /ledgers?customerId=65ca01d368372f2c090d24f6&accountId=65ca01bf68372f2c090d24f0
+warn: getTransactionsByType
+info: GET /ledgers?customerId=65ca01d368372f2c090d24f6&accountId=65ca01bf68372f2c090d24f0
+warn: getTransactionsByType
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /expenses?accountId=65c49434f6c9d66024d59494
+info: GET /expenses?accountId=65ca01bf68372f2c090d24f0
+info: GET /expenses?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: Error retrieving customers: TypeError: Cannot destructure property 'accountId' of 'req.body' as it is undefined.
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: Error retrieving transactions: ReferenceError: Customer is not defined
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: customerscustomerscustomerscustomers {
+  _id: new ObjectId('65ca01d368372f2c090d24f6'),
+  accountId: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur-1',
+  mobile: '6546867881',
+  __v: 0
+}
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: customerscustomerscustomerscustomers {
+  _id: new ObjectId('65c49444f6c9d66024d5949a'),
+  accountId: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar-1',
+  mobile: '9877110022',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /customer
+info: POST /customer
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: customerscustomerscustomerscustomers {
+  _id: new ObjectId('65ca01d368372f2c090d24f6'),
+  accountId: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur-1',
+  mobile: '6546867881',
+  __v: 0
+},{
+  _id: new ObjectId('65cb4798eeb8c76817e37a75'),
+  accountId: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur-2',
+  mobile: '9897660022',
+  __v: 0
+}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: customerscustomerscustomerscustomers [object Object]
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: customerscustomerscustomerscustomers {"65c49444f6c9d66024d5949a":"amar-1"}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: customerscustomerscustomerscustomers {"65c49444f6c9d66024d5949a":"amar-1"}
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c49456f6c9d66024d594a4","description":"test","amount":10000,"date":"1707381751440","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"pay","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d08328043f57cf5cd5dc","description":"testtttasfdystfd","amount":1000,"date":"1707724914385","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d2021d7af5250b1d2a04","description":"testtttasfdystfd","amount":1000,"date":"1707725311032","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d2584747810d8edd70ac","description":"testtttasfdystfd","amount":1000,"date":"1707725396025","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d29bfcb4ed87ae0d8351","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d29dfcb4ed87ae0d8353","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d345fcb4ed87ae0d8355","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65ca030168372f2c090d2527","description":"salary","amount":5000,"date":"1707731564459","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65c49456f6c9d66024d594a4","description":"test","amount":10000,"date":"1707381751440","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"pay","__v":0},{"_id":"65c9d08328043f57cf5cd5dc","description":"testtttasfdystfd","amount":1000,"date":"1707724914385","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d2021d7af5250b1d2a04","description":"testtttasfdystfd","amount":1000,"date":"1707725311032","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d2584747810d8edd70ac","description":"testtttasfdystfd","amount":1000,"date":"1707725396025","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d29bfcb4ed87ae0d8351","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d29dfcb4ed87ae0d8353","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d345fcb4ed87ae0d8355","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65ca030168372f2c090d2527","description":"salary","amount":5000,"date":"1707731564459","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65c49444f6c9d66024d5949a":"amar-1"}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: customerscustomerscustomerscustomers [{"0":"0"}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65c49456f6c9d66024d594a4","description":"test","amount":10000,"date":"1707381751440","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"pay","__v":0},{"_id":"65c9d08328043f57cf5cd5dc","description":"testtttasfdystfd","amount":1000,"date":"1707724914385","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d2021d7af5250b1d2a04","description":"testtttasfdystfd","amount":1000,"date":"1707725311032","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d2584747810d8edd70ac","description":"testtttasfdystfd","amount":1000,"date":"1707725396025","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d29bfcb4ed87ae0d8351","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d29dfcb4ed87ae0d8353","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65c9d345fcb4ed87ae0d8355","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0},{"_id":"65ca030168372f2c090d2527","description":"salary","amount":5000,"date":"1707731564459","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65c49444f6c9d66024d5949a":"amar-1"}
+error: transtranstranstranstranstrans {"_id":"65c49456f6c9d66024d594a4","description":"test","amount":10000,"date":"1707381751440","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"pay","__v":0}
+error: transtranstranstranstranstrans {"_id":"65c9d08328043f57cf5cd5dc","description":"testtttasfdystfd","amount":1000,"date":"1707724914385","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: transtranstranstranstranstrans {"_id":"65c9d2021d7af5250b1d2a04","description":"testtttasfdystfd","amount":1000,"date":"1707725311032","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: transtranstranstranstranstrans {"_id":"65c9d2584747810d8edd70ac","description":"testtttasfdystfd","amount":1000,"date":"1707725396025","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: transtranstranstranstranstrans {"_id":"65c9d29bfcb4ed87ae0d8351","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: transtranstranstranstranstrans {"_id":"65c9d29dfcb4ed87ae0d8353","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: transtranstranstranstranstrans {"_id":"65c9d345fcb4ed87ae0d8355","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: transtranstranstranstranstrans {"_id":"65ca030168372f2c090d2527","description":"salary","amount":5000,"date":"1707731564459","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c49456f6c9d66024d594a4","description":"test","amount":10000,"date":"1707381751440","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"pay","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d08328043f57cf5cd5dc","description":"testtttasfdystfd","amount":1000,"date":"1707724914385","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d2021d7af5250b1d2a04","description":"testtttasfdystfd","amount":1000,"date":"1707725311032","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d2584747810d8edd70ac","description":"testtttasfdystfd","amount":1000,"date":"1707725396025","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d29bfcb4ed87ae0d8351","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d29dfcb4ed87ae0d8353","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65c9d345fcb4ed87ae0d8355","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}},{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65ca030168372f2c090d2527","description":"salary","amount":5000,"date":"1707731564459","accountId":"65c49434f6c9d66024d59494","customerId":"65c49444f6c9d66024d5949a","type":"receive","__v":0}}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: transtranstranstranstranstrans {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: transtranstranstranstranstrans {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0},"customerName":"ankur-1"}]
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: transtranstranstranstranstrans {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers [{"$__":{"activePaths":{"paths":{"type":"init","amount":"init","description":"init","date":"init","_id":"init","accountId":"init","customerId":"init","__v":"init"},"states":{"require":{},"default":{},"init":{"_id":true,"description":true,"amount":true,"date":true,"accountId":true,"customerId":true,"type":true,"__v":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0},"customerName":"ankur-1"}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: transtranstranstranstranstrans {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: Error retrieving transactions: ReferenceError: t2 is not defined
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+error: customerscustomerscustomerscustomers {"65ca01d368372f2c090d24f6":"ankur-1","65cb4798eeb8c76817e37a75":"ankur-2"}
+error: transtranstranstranstranstrans {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers [{"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers {"_id":"65cb3c21338557201b18ecb7","description":"salary","amount":10000,"date":"1707817977365","accountId":"65ca01bf68372f2c090d24f0","customerId":"65ca01d368372f2c090d24f6","type":"receive","__v":0}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"customerName":"ankur-1"}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"customerName":"ankur-1","description":"salary","amount":10000,"date":"1707817977365","type":"receive"}]
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+error: +++++++++++++++++++++++++++++++++++++++++++++++++++++=
+error: customerscustomerscustomerscustomers [{"customerName":"amar-1","description":"test","amount":10000,"date":"1707381751440","type":"pay"},{"customerName":"amar-1","description":"testtttasfdystfd","amount":1000,"date":"1707724914385","type":"receive"},{"customerName":"amar-1","description":"testtttasfdystfd","amount":1000,"date":"1707725311032","type":"receive"},{"customerName":"amar-1","description":"testtttasfdystfd","amount":1000,"date":"1707725396025","type":"receive"},{"customerName":"amar-1","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","type":"receive"},{"customerName":"amar-1","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","type":"receive"},{"customerName":"amar-1","description":"testtttasfdystfd","amount":1000,"date":"1707725463119","type":"receive"},{"customerName":"amar-1","description":"salary","amount":5000,"date":"1707731564459","type":"receive"}]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /customers
+info: POST /customers
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /customers
+info: POST /customers
+info: OPTIONS /transactions
+info: POST /transactions
+info: Transaction created: {
+  description: 'we',
+  amount: 67325,
+  date: '1707822132967',
+  accountId: new ObjectId('65ca01bf68372f2c090d24f0'),
+  customerId: new ObjectId('65cb4798eeb8c76817e37a75'),
+  type: 'receive',
+  _id: new ObjectId('65cb4ca8bb65824980cb0bb8'),
+  __v: 0
+}
+info: SMS sent successfully:
+info: msgid created: SMcd16f63d9ce9c0dd80cdf546e025e4e3
+info: wid created: SM9ce8232dc15abdf1c6ddc77047ad7dc1
+info: sendEmail
+error: Error creating transaction: Error: Missing credentials for "PLAIN"
+info: OPTIONS /transactions
+info: POST /transactions
+info: Transaction created: {
+  description: 'we',
+  amount: 67325,
+  date: '1707822132967',
+  accountId: new ObjectId('65ca01bf68372f2c090d24f0'),
+  customerId: new ObjectId('65ca01d368372f2c090d24f6'),
+  type: 'receive',
+  _id: new ObjectId('65cb4cb0bb65824980cb0bba'),
+  __v: 0
+}
+info: SMS sent successfully:
+info: msgid created: SM0b581c2410d1af2333d156de96ca4063
+info: wid created: SMb1d7967b03512ec2df0d2399a0205458
+info: sendEmail
+error: Error creating transaction: Error: Missing credentials for "PLAIN"
+info: OPTIONS /transactions
+info: POST /transactions
+info: Transaction created: {
+  description: 'we',
+  amount: 323,
+  date: '1707822132967',
+  accountId: new ObjectId('65ca01bf68372f2c090d24f0'),
+  customerId: new ObjectId('65ca01d368372f2c090d24f6'),
+  type: 'pay',
+  _id: new ObjectId('65cb4cb8bb65824980cb0bbc'),
+  __v: 0
+}
+info: SMS sent successfully:
+info: msgid created: SMbb629658d0d02994d14d69e695c4b4db
+info: wid created: SM014fe0f6cf0ebc06868baa72e5debdab
+info: sendEmail
+error: Error creating transaction: Error: Missing credentials for "PLAIN"
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /expenses?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /expenses?accountId=65c49434f6c9d66024d59494
+info: GET /expenses?accountId=65ca01bf68372f2c090d24f0
+info: GET /expenses?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /expenses?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: OPTIONS /login
+info: Server is running on http://localhost:3001
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: GET /accounts
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Retrieved all accounts: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+},{
+  _id: new ObjectId('65ca01bf68372f2c090d24f0'),
+  name: 'ankur',
+  mobile: '9877110022',
+  OTP: '1234',
+  __v: 0
+}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb===========undefined
+info: GET /accounts
+info: gbgbgbgbgb===========undefined
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb===========[object Object]
+info: GET /accounts
+info: gbgbgbgbgb===========[object Object]
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb==========={"version":"0.33.0","context":{"apiHost":"https://cdn.growthbook.io","clientKey":"sdk-tOli6u8wmAxOQoa","enableDevMode":false,"subscribeToChanges":false,"experiments":[],"features":{"account-table":{"defaultValue":false,"rules":[{"condition":{"loggedIn":true},"force":true}]}}},"_ctx":{"apiHost":"https://cdn.growthbook.io","clientKey":"sdk-tOli6u8wmAxOQoa","enableDevMode":false,"subscribeToChanges":false,"experiments":[],"features":{"account-table":{"defaultValue":false,"rules":[{"condition":{"loggedIn":true},"force":true}]}}},"_renderer":null,"_trackedExperiments":{},"_trackedFeatures":{},"debug":false,"_subscriptions":{},"_rtQueue":[],"_rtTimer":0,"ready":true,"_assigned":{},"_forcedFeatureValues":{},"_attributeOverrides":{},"_activeAutoExperiments":{},"_triggeredExpKeys":{},"_loadFeaturesCalled":true}
+info: GET /accounts
+info: gbgbgbgbgb==========={"version":"0.33.0","context":{"apiHost":"https://cdn.growthbook.io","clientKey":"sdk-tOli6u8wmAxOQoa","enableDevMode":false,"subscribeToChanges":false,"experiments":[],"features":{"account-table":{"defaultValue":false,"rules":[{"condition":{"loggedIn":true},"force":true}]}}},"_ctx":{"apiHost":"https://cdn.growthbook.io","clientKey":"sdk-tOli6u8wmAxOQoa","enableDevMode":false,"subscribeToChanges":false,"experiments":[],"features":{"account-table":{"defaultValue":false,"rules":[{"condition":{"loggedIn":true},"force":true}]}}},"_renderer":null,"_trackedExperiments":{},"_trackedFeatures":{},"debug":false,"_subscriptions":{},"_rtQueue":[],"_rtTimer":0,"ready":true,"_assigned":{},"_forcedFeatureValues":{},"_attributeOverrides":{},"_activeAutoExperiments":{},"_triggeredExpKeys":{},"_loadFeaturesCalled":true}
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb===========false
+info: GET /accounts
+info: gbgbgbgbgb===========false
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: GET /accounts
+info: gbgbgbgbgb====false
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: OPTIONS /customers
+info: POST /customers
+info: POST /customers
+info: POST /customers
+info: POST /customers
+info: POST /customers
+info: POST /customers
+info: OPTIONS /customers
+info: POST /customers
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: OPTIONS /customers
+info: POST /customers
+info: POST /customers
+info: POST /customers
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: GET /accounts
+info: gbgbgbgbgb====true
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: OPTIONS /investments
+info: POST /investments
+info: GET /accounts
+info: GET /accounts
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /investments?accountId=65ca01bf68372f2c090d24f0
+info: GET /investments?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /Invoices?accountId=65ca01bf68372f2c090d24f0
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /todos?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /Invoices?accountId=65ca01bf68372f2c090d24f0
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /Invoices?accountId=65ca01bf68372f2c090d24f0
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /Invoices?accountId=65ca01bf68372f2c090d24f0
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /Invoices?accountId=65ca01bf68372f2c090d24f0
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /Invoices?accountId=65ca01bf68372f2c090d24f0
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /Invoices?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: OPTIONS /login
+info: POST /login
+info: Account loggedin: {
+  _id: new ObjectId('65c49434f6c9d66024d59494'),
+  name: 'amar',
+  mobile: '9897241649',
+  __v: 0,
+  OTP: '1234'
+}
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: Server is running on http://localhost:3001
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: GET /accounts
+info: Server is running on http://localhost:3001
+info: GET /accounts
+info: GET /accounts
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /transactions?accountId=65ca01bf68372f2c090d24f0
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /transactions?accountId=65c49434f6c9d66024d59494
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: GET /accounts
+info: Server is running on http://localhost:3001

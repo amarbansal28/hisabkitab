@@ -1,0 +1,29 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@growthbook/growthbook": "^0.33.0",
+    "@sendgrid/mail": "^8.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "highcharts": "^11.3.0",
+    "lighthouse": "^11.5.0",
+    "mongoose": "^8.1.1",
+    "nanoid": "^5.0.5",
+    "nodemailer": "^6.9.9",
+    "react-highcharts": "^6.0.0",
+    "react-notifications": "^1.7.4",
+    "twilio": "^4.21.0",
+    "winston": "^3.11.0",
+    "xlsx": "^0.18.5"
+  }
+}
